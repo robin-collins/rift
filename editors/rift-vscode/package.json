@@ -46,6 +46,14 @@
           "default": null,
           "description": "OpenAI API key"
         },
+        "rift.anthropicKey": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null,
+          "description": "Anthropic API key"
+        },
         "rift.cohereKey": {
           "type": [
             "string",
